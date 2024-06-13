@@ -1,11 +1,11 @@
-## Hi there 👋, this is a database that stores hacking softwares and leaked data created by KCIS Students
+## Hi there 👋, this is a database that stores hacking softwares and leaked data created by KCISEC Students
 
 ***This account is created anonymously***
 
 ***Contact: KCISHacker@outlook.com**
 
-### About [KCIS](https://kunshan.kcis.org.cn/default.html)
-> An introduction of KCIS in its official website, that is translated into English:
+### About [KCISEC](https://kunshan.kcis.org.cn/default.html)
+> An introduction of KCISEC in its official website, that is translated into English:
 > Kunshan Kang Chiao School is a 15-year school from kindergarten to high school, with a total investment of more than 1 billion yuan, covering an area of ​​about 215 acres, divided into full-time kindergarten, elementary school, junior high school, and high school. It has teaching buildings, student dormitories, concert halls, gymnasiums, swimming pools and other teaching facilities, which can accommodate more than 6,000 students.
 Kang Chiao respects the differences of each student, implements personalized education, and recruits new students from kindergartens, elementary schools, junior high schools, and high schools who are both good in character and learning, and in good health and meet the school's admission qualifications. Your consultation is welcome.
 
