@@ -12,15 +12,16 @@ Kang Chiao respects the differences of each student, implements personalized edu
 ### Projects
 |Name|Description|Status|
 |:---:|:---:|:---:|
-|`KCISHackerGitHubPage`|The homepage of this project|To be uploaded|
-|`KCISStudList`|A list of students range from grade 7-9 of 2023/2024|To be uploaded|
-|`KCISStudListExt`|The extended list for `StudList`, that contains up to students of grade 10-12|To be collected|
-|`KCISDetentionSystem`|A software that can control detention forms easily|To be uploaded|
-|`KCISXuewuSystem`|A javascript that bypass the password to login into the student info system|To be uploaded|
-|`KCISStudListUpdater`|A Python script that updates the `KCISStudList` with JSON|To be uploaded|
 |`KCISAutoOrderSystem`|A Python script that semi-automatically orders food|To be uploaded|
+|`KCISDetentionSystem`|A software that can control detention forms easily|To be uploaded|
+|`KCISFlipperZeroNFC`|A collection of NFC file that can be imported into flipper with its updater that reads data from `KCISStudList`|Done|
+|`KCISStudList`|A list of students range from grade 7-9 of 2023/2024|Done|
+|`KCISStudListExt`|The extended list for `StudList`, that contains up to students of grade 10-12|To be collected|
+|`KCISStudListUpdater`|A Python script that updates the `KCISStudList` with JSON|Done|
 |`KCISTSystem`|A list containing some of the teachers' username and password of the teacher administraction system|To be collected|
+|`KCISHackerGitHubPage`|The homepage of this project|Done|
 |`KCISWiFiSystem`|A program that enabled users to login into anyone's WiFi|To be planned|
+|`KCISXuewuSystem`|A javascript that bypass the password to login into the student info system|Done|
 
 <!--
 **KCISHacker/KCISHacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
